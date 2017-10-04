@@ -2,7 +2,7 @@
 
 A simple Line chart visualising Homogenised monthly temperature time series of De Bilt (1901-present).
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Basic line chart")
+![alt text](https://github.com/youmghar/fe3-assessment-1/blob/master/preview.png "Basic line chart")
 
 ## Features
 
